@@ -4,24 +4,12 @@ Power BI analysis of COVID-19 dataset
 
 This project explores how different factors influenced COVID-19 cases and outcomes using a public dataset. The analysis was done in Power BI, covering administrative, clinical, comorbidity, and demographic aspects of patients.  
 
----
+reach me out at :
 
-## Table of Contents  
-- [Objectives](#objectives)  
-- [Dataset](#dataset)  
-- [Dashboard Sections](#dashboard-sections)  
-- [Tools Used](#tools-used)  
-- [Key Insights](#key-insights)  
-- [Repository Contents](#repository-contents)  
+#Email : Nawafmeer17@gmail.com
+#Phone : +966577615325
+---  
 
----
-
-## Objectives  
-- Clean and prepare raw COVID-19 data for analysis.  
-- Build an interactive Power BI dashboard.  
-- Highlight the effect of administrative, clinical, comorbidities, and demographic factors on COVID-19 outcomes.  
-
----
 
 ## Dataset  
 - **Source**: [COVID-19 Dataset (Kaggle)](https://www.kaggle.com/datasets/meirnizri/covid19-dataset/data)  
@@ -59,13 +47,3 @@ This project explores how different factors influenced COVID-19 cases and outcom
 - ICU and intubation patients had higher mortality compared to outpatients.  
 - Comorbidities like diabetes, hypertension, and obesity increased risk.  
 - Age and gender were major demographic factors affecting severity.  
-
----
-
-## Repository Contents  
-📁 **images/** → Dashboard screenshots  
-📄 **COVID-19 Patient Analysis.pbix** → Power BI file  
-📄 **README.md** → Documentation  
-
-## Report  
-View the full PDF report [here](docs/COVID-19_Patient_Analysis.pdf).
